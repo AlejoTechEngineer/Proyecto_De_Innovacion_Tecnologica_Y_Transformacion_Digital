@@ -1,3 +1,5 @@
+<div align="center">
+
 # Proyecto de Innovación Tecnológica y Transformación Digital
 
 ![Digital Transformation](https://img.shields.io/badge/Transformación-Digital-1565C0?style=for-the-badge)
@@ -6,6 +8,10 @@
 > Estrategia de innovación tecnológica y transformación digital para organización del sector TI.
 
 ## Descripción
+
+</div>
+
+---
 
 Proyecto integral de definición de estrategia de **innovación tecnológica y transformación digital**: diagnóstico del estado actual, análisis del entorno competitivo, propuesta de valor tecnológica y hoja de ruta (roadmap) de transformación con metodologías ágiles como habilitador del cambio organizacional.
 
@@ -29,3 +35,12 @@ Proyecto integral de definición de estrategia de **innovación tecnológica y t
 
 **Asignatura:** Dirección y Gestión de Empresas TI · **Institución:** UNIR · Ingeniería Informática
 **Autor:** Alejandro De Mendoza — Ingeniero Informático · Especialista IA · Máster Arquitectura de Software
+
+---
+
+## Autor
+
+**Alejandro De Mendoza**  
+Ingeniero Informático · Especialista en IA · Especialista en Ingeniería de Software · Máster en Arquitectura de Software
+
+[![GitHub](https://img.shields.io/badge/GitHub-AlejoTechEngineer-181717?style=for-the-badge&logo=github)](https://github.com/AlejoTechEngineer)
