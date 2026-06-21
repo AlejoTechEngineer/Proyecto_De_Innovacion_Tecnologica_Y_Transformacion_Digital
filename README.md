@@ -38,6 +38,22 @@ Proyecto integral de definición de estrategia de **innovación tecnológica y t
 
 ---
 
+## Arquitectura
+
+```mermaid
+flowchart TD
+    A[Proyecto_Innovacion_Tecnologica] --> B[Diagnostico Digital - Madurez Actual]
+    A --> C[Propuesta de Valor Tecnologica]
+    A --> D[Roadmap de Transformacion - Fases con Hitos y KPIs]
+    A --> E[Habilitadores Tecnologicos]
+    A --> F[Gestion del Cambio - Cultura Organizacional]
+    E --> G[Cloud Computing]
+    E --> H[Datos e IA]
+    E --> I[Automatizacion de Procesos]
+    F --> J[Formacion Digital del Equipo]
+    D & E & F --> K[Documento Estrategico PDF/DOCX]
+```
+
 ## Autor
 
 **Alejandro De Mendoza**  
