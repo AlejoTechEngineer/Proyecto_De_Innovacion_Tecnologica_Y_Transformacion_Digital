@@ -23,21 +23,6 @@ Proyecto integral de definición de estrategia de **innovación tecnológica y t
 | `*.docx` | Desarrollo del proyecto |
 | `act_1.docx` | Actividad complementaria |
 
-## Dimensiones del proyecto
-
-- **Diagnóstico:** Análisis del estado digital actual (madurez tecnológica)
-- **Visión:** Definición de la propuesta de valor y objetivos de transformación
-- **Roadmap:** Hoja de ruta por fases con hitos y KPIs de transformación
-- **Habilitadores:** Cloud, datos, IA y automatización como motores de cambio
-- **Gestión del cambio:** Cultura organizacional y formación digital
-
-## Contexto académico
-
-**Asignatura:** Dirección y Gestión de Empresas TI · **Institución:** UNIR · Ingeniería Informática
-**Autor:** Alejandro De Mendoza — Ingeniero Informático · Especialista IA · Máster Arquitectura de Software
-
----
-
 ## Arquitectura
 
 ```mermaid
@@ -53,6 +38,21 @@ flowchart TD
     F --> J[Formacion Digital del Equipo]
     D & E & F --> K[Documento Estrategico PDF/DOCX]
 ```
+
+## Dimensiones del proyecto
+
+- **Diagnóstico:** Análisis del estado digital actual (madurez tecnológica)
+- **Visión:** Definición de la propuesta de valor y objetivos de transformación
+- **Roadmap:** Hoja de ruta por fases con hitos y KPIs de transformación
+- **Habilitadores:** Cloud, datos, IA y automatización como motores de cambio
+- **Gestión del cambio:** Cultura organizacional y formación digital
+
+## Contexto académico
+
+**Asignatura:** Dirección y Gestión de Empresas TI · **Institución:** UNIR · Ingeniería Informática
+**Autor:** Alejandro De Mendoza — Ingeniero Informático · Especialista IA · Máster Arquitectura de Software
+
+---
 
 ## Autor
 
